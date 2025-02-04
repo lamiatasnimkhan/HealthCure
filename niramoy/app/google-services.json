@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "845954614829",
+    "firebase_url": "https://niramoy-d0cb8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "niramoy-d0cb8",
+    "storage_bucket": "niramoy-d0cb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845954614829:android:7a9cb659f1259e40985aa4",
+        "android_client_info": {
+          "package_name": "com.example.niramoy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQjmE3GK2ppwd-XdjmQ38JRd78piZvi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
