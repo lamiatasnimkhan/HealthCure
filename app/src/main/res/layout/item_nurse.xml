@@ -1,0 +1,29 @@
+<!-- item_nurse.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_marginBottom="8dp"
+    android:background="?android:attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/tvNurseName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nurse Name"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvNurseSpecialty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Specialty" />
+
+    <Button
+        android:id="@+id/btnSendRequest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+</LinearLayout>
